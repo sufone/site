@@ -14,6 +14,7 @@ A cooperative is "an autonomous association of persons united voluntarily to mee
 ## Mission
 
 Fulfill the digital needs of Muslims through apps that are excellent because of:
+
 2. Pursuing the best qualities in every app: speed, power and beauty. *Ihsan* is pursued in every part of the experience.
 1. Community engagement and open-source: Open-source is so… Islamic! Cooperation between people, sharing progress to the wider world and keeping software open to contributors of all kind to work towards the best software for all. 
 
