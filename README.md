@@ -22,8 +22,6 @@ Community participation is the heart of Sufone: to nurture the ummah's spirit an
 
 A later stage of Sufone will be focused on financially supporting those Muslims who work on open source. Many amazing apps and resources come from people working as volunteers (like quran.com) outside of their full-time job, or are one-man projects! Sufone will collect and distribute funding 100% transparently, and hire people to work on these projects (those who already do and even more people!). 
 
-This is 
-
 We are highly inspired by [Nuqaya](https://nuqayah.com/) and the suite of apps by Ustadh Mustafa 💗
 
 ## Structure
