@@ -26,18 +26,16 @@ We are highly inspired by [Nuqaya](https://nuqayah.com/) and the suite of apps b
 
 ## Structure
 
-Two overall teams working together:
+Two divisions working together:
 
 - Project
 - Community
 
-The Project team include programmers, designers and all those working to build apps and digital experiences. 
+The Project team include programmers, designers and all those working directly to build apps and digital experiences. 
 
-The Community team is the open channel of the public to send their feedback and struggles to the Project team, and to communicate to the general public. Marketing, support, and so on.
+The Community team is the open channel of the public to send their feedback and struggles to the Project team, and also to communicate to the general public from the Propject team. Includes support, marketing, research and so on.
 
-To start with, people will probably be part of both teams at the same time, and there should of course be a lot of overlap and work across teams (specially for roles like writing documentation or blogs). But specialization of skills or at least attention is beneficial for the greater effectiveness.
-
-There'll be an overall 
+To start with, people will probably take on many roles across both teams at the same time, and there should always be a lot of overlap and work across teams (specially for roles like writing documentation or blogs). But specialization of skills or at least attention is beneficial for the greater effectiveness.
 
 ---
 
