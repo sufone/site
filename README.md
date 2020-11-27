@@ -13,7 +13,9 @@ A cooperative is "an autonomous association of persons united voluntarily to mee
 
 ## Mission
 
-Fulfill the digital needs of Muslims through apps that are excellent because of:
+Fulfill the digital needs of Muslims through apps that are excellent. We may not work on the largest projects of biggest issues (at least in the beginning), but we are user-focused. We make apps that Muslims want but might not even know it, things others haven't fulfilled. 
+
+The excellence we seek:
 
 1. Pursuing the best qualities in every app: speed, power and beauty. *Ihsan* is pursued in every part of the experience.
 2. Community engagement and open-source: Open-source is so… Islamic! Cooperation between people, sharing progress to the wider world and keeping software open to contributors of all kind to work towards the best software for all. 
@@ -23,6 +25,8 @@ Community participation is the heart of Sufone: to nurture the ummah's spirit an
 A later stage of Sufone will be focused on financially supporting those Muslims who work on open source. Many amazing apps and resources come from people working as volunteers (like quran.com) outside of their full-time job, or are one-man projects! Sufone will collect and distribute funding 100% transparently, and hire people to work on these projects (those who already do and even more people!). 
 
 We are highly inspired by [Nuqaya](https://nuqayah.com/) and the suite of apps by Ustadh Mustafa 💗
+
+
 
 ## Structure
 
