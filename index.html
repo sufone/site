@@ -25,8 +25,13 @@
 
 <body>
 
+    <div style="text-align: center; ">
+      <img src="logo.png" id="top-logo" />
+    </div>
+
+
   <h1>Sufone</h1>
-  <h2>Powerful, fast, well-designed Islamic apps</h2>
+  <h2>Islamic Apps</h2>
   
 
   <!-- CSS -->
@@ -54,7 +59,7 @@
 
     .carousel {
       background: #FFF;
-      margin: 30px 0 70px 0;
+      margin: 40px 0 70px 0;
     }
     
     .carousel img {
@@ -70,7 +75,7 @@
     
     h1 {
         font-family: 'Jost';
-        margin: 20px 0 0 0;
+
     }
     h2 {
         font-weight: lighter;
@@ -80,14 +85,24 @@
     h1, h2 {
         text-align: center;
     }
-    h2, h3, p {
+    h1, h2, h3, p {
         margin: 0;
     }
     #details-container {
-        margin: 0px 20px 0 20px;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
     }
     .details-card {
         margin: 0 0 25px 0;
+    }
+    a  {
+        color: black;
+        text-decoration: 1px blue underline;
+    }
+    #top-logo {
+        height: 50px;
+        margin: 40px 0 -5px 0;
     }
     
     @media screen and ( min-width: 768px ) {
@@ -95,10 +110,10 @@
         height: 200px;
       }
       #details-container {
-          margin: 0px 200px 0 200px;
+
       }
-      h1 {
-          margin: 40px 0 0 0;
+      #top-logo {
+        margin: 40px 0 -5px 0;
       }
       h2 {
           font-size: bigger;
@@ -109,27 +124,30 @@
     <div id="details-container"> 
         <div class="details-card">
             <h3>Islamic</h3>
-            <p>Life-improving features shaped by the message of Islam</p>
+            <p>Our mission is to make apps that help us get closer to our Lord and improve our lives as Muslims.</p>
         </div>
         <div class="details-card">
             <h3>Powerful</h3>
-            <p>The</p>
+            <p>Sufone apps strive to provide a complete experience where all features work consistently provide all you need.</p>
         </div>
         <div class="details-card">
             <h3>Fast</h3>
-            <p>The</p>
+            <p>With a focus on lightning fast performance on all devices, our apps save you time and help you focus on what matters.</p>
         </div>
         <div class="details-card">
             <h3>Well-designed</h3>
-            <p>The</p>
+            <p>A finely crafted interface is a priority at Sufone and we aim to make every app delightful to use from start to finish.</p>
         </div>
         <div class="details-card">
             <h3>Open</h3>
-            <p>The</p>
+            <p>All the Sufone apps are open-source and available freely for everyone to inspect, help improve and build upon!</p>
         </div>
         <div class="details-card">
-            <h3>…Be a part of Sufone!</h3>
-            <p>The</p>
+            <a href="https://navedislam.com/sufone-for-islamic-apps" >
+                <h3>Learn more about Sufone and how to help</h3>          
+                  </a>
+                <p>We invite people all skill sets to volunteer and help create the next generation of Islamic apps!</p>
+
         </div>
     </div>
  
